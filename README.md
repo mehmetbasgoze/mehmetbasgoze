@@ -2,22 +2,15 @@
   <img src="https://media.giphy.com/media/3oKIPn3b0I6yEwk8VO/giphy.gif" width="260"/>
 </div>
 
-<br>
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/mehmetbasgoze">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</div>
-
 <h1 align="center">
   Merhaba ben Mehmet Başgöze
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 ### :man_technologist: About Me :
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Software Engineering Student 
-- :telescope: I'm working currently Deep Learning and Machine Learning
-- :zap: In my free time, I solve problems on HackerRank 
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <strong>I am a Software Engineering Student 
+- :telescope: <strong>I'm working currently Deep Learning and Machine Learning
+- :zap: <strong>In my free time, I solve problems on HackerRank 
 <br>
 
 ---
@@ -44,6 +37,14 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=memollizm&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=memollizm&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+---
+
+### :mailbox: Contact With Me :
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmetbasgoze/)
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehmettbasgoze@gmail.com)
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mehmetbagze)
 
 
 
