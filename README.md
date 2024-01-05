@@ -34,7 +34,7 @@
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=memollizm&theme=dark&background=000000" alt="memollizm" /></p>
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=memollizm&theme=dark&background=000000show_icons=true&locale=en&layout=compact" alt="memollizm" />
