@@ -36,8 +36,9 @@
 
 ### :fire: My Stats :
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=memollizm&theme=dark&background=000000" alt="memollizm" /></p>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=memollizm&theme=dark&background=000000show_icons=true&locale=en&layout=compact" alt="memollizm" />
+
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=memollizm&show_icons=true&theme=radical)
+
 <br>
 
 ---
@@ -45,8 +46,9 @@
 ### :mailbox: Contact With Me :
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmetbasgoze/)
 [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehmettbasgoze@gmail.com)
-[![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mehmetbagze)
 [![HackerRank Badge](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/basgozemehmet24)
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mehmetbagze)
+
 
 
 
