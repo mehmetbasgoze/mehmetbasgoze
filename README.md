@@ -35,7 +35,7 @@
 ---
 
 ### :fire: My Stats :
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=memollizm&theme=dark&background=000000" alt="memollizm" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=memollizm&theme=radical&background=000000" alt="memollizm" /></p>
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=memollizm&show_icons=true&theme=radical)
 
