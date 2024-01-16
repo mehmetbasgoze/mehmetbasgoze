@@ -35,15 +35,11 @@
 ---
 
 ### :fire: My Stats :
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=memollizm&theme=radical&background=000000" alt="memollizm" /></p>
-<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=memollizm&theme=radical&background=000000" alt="memollizm" /></p>
 
----
-
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=memollizm&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="memollizm"</p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=memollizm&theme=radical" alt="memollizm" /></p>
 
 
-<br>
 
 ---
 
