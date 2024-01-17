@@ -10,7 +10,7 @@
 ### :man_technologist: About Me :
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <strong>I am a Software Engineering Student 
 - :telescope: <strong>I'm working currently Deep Learning and Machine Learning
-- :zap: <strong>In my free time, I solve problems on HackerRank 
+- :zap: <strong>In my free time, I s olve problems on HackerRank 
 <br>
 
 ---
