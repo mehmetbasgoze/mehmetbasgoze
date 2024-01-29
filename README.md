@@ -36,7 +36,7 @@
 
 ### :fire: My Stats :
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memollizm&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=memollizm&theme=radical" alt="memollizm" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=memollizm&theme=radical" alt="memollizm" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=memollizm&theme=radical&hide_border=false" alt="memollizm"/></p>
 
 
