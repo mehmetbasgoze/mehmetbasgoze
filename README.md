@@ -38,8 +38,8 @@
 ---
 
 ### :fire: My Stats :
-<p><img src="https://github-readme-stats.vercel.app/api?username=memollizm&theme=radical" alt="memollizm" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=memollizm&theme=radical&hide_border=false" alt="memollizm"/></p>
+<p><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=memollizm&theme=dark&background=000000show_icons=true&locale=en&layout=compact" alt="memollizm" /></p>
+<p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=memollizm&theme=dark" alt="memollizm"/></p>
 
 
 
