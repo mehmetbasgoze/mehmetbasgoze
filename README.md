@@ -38,7 +38,7 @@
 ---
 
 ### :fire: My Stats :
-<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=memollizm&theme=react" alt="memollizm"/></p>
+<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=memollizm&theme=dark" height="180em"/></p>
 <p><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=memollizm&theme=react" alt="memollizm" /></p>
 
 
