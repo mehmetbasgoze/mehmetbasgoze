@@ -15,6 +15,12 @@
 
 ---
 
+### :fire: My Stats :
+<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=memollizm&theme=dark" height="180em"/></p>
+
+
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
@@ -34,11 +40,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikitlearn" alt="Scikitlearn" width="40" height="40"/>&nbsp;
 </div>
 <br>
-
----
-
-### :fire: My Stats :
-<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=memollizm&theme=dark" height="180em"/></p>
 
 
 
