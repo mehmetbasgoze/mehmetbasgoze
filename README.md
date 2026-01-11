@@ -14,12 +14,6 @@
 
 ---
 
-### :fire: My Stats :
-<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehmetbasgoze&theme=dark" height="180em"/></p>
-
-
----
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" alt="TensorFlow" width="85" height="85"/>&nbsp;
