@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/3oKIPn3b0I6yEwk8VO/giphy.gif" width="260"/>
-</div>
-
 <h1 align="center">
   Hi There, I'm Mehmet Başgöze
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
